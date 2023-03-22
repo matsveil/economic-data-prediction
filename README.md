@@ -1,2 +1,5 @@
-# Colab
-Google Colabs
+# Project Overview
+
+Our team is David D, Nick F, and Matsvei. Our project will be a Juypter Notebook that creates various data visualizations for various Federal Reserve Economic data points. CSV files from https://fred.stlouisfed.org/ will be loaded into pandas dataframes and plotted with matplotlib. Moving averages will also be calculated and plotted, possibly with numpy. Our starting point will be from David DiBenedetto’s Google Colab Juypter Notebooks that use Federal Reserve data linked on https://heathwater.com. We will plot data like the consumer price index, fed funds rate, unemployment rate, treasury yields for various durations, and more. We will put multiple lines on the same graph for different data points if the data is related for comparison purposes.
+
+Our reach goal is to create a tool for analyzing the job market and determining if it is a good time to look for a new job or stay at your current job based on current and historical unemployment and inflation data. We may add other tools as well to help decision making based upon economic data from the St. Lous Fed’s website. If we have time, we will also use TensorFlow to predict what various economic numbers may be in the future.
